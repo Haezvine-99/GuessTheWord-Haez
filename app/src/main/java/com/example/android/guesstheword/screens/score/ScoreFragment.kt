@@ -58,5 +58,6 @@ class ScoreFragment : Fragment() {
         binding.scoreText.text = viewModel.score.toString()
 
         return binding.root
+        //iiiiii
     }
 }
